@@ -12,3 +12,7 @@ $ make run
 # run with /srv/www as web root
 $ make run_volume
 ```
+
+## TODO
+
+- [ ] logging
